@@ -26,3 +26,15 @@ D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductM
 D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
 D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
 D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\Users\001036705\Desktop\5TSD TEST\TafeProductApp1\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache

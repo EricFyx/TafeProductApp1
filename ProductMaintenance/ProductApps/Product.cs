@@ -34,7 +34,7 @@ namespace ProductApps
         }
 
 
-        private decimal Delivery
+        public decimal Delivery
         {
             get { return delivery; }
             set { delivery = value; }
@@ -64,6 +64,11 @@ namespace ProductApps
         public void calTotalPayment()
         {
             TotalPayment = Price * Quantity;
+        }
+
+        public void calDelivery()
+        {
+            Delivery = TotalPayment + 25;
         }
     }
 }
